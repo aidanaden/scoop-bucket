@@ -25,5 +25,5 @@
     },
     "homepage": "https://github.com/aidanaden/canvas-sync",
     "license": "MIT",
-    "description": "Canvas-sync is a  CLI to download (course files, videos, etc) \u0026 view (deadlines, events, announcements) from Canvas"
+    "description": "Canvas-sync is a  CLI to download (course files, videos, etc)\n\u0026 view (deadlines, events, announcements) from Canvas\n"
 }
