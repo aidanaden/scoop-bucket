@@ -1,29 +1,29 @@
 {
-    "version": "1.12.2",
+    "version": "1.12.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.2/canvas-sync_Windows_i386.zip",
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.3/canvas-sync_Windows_i386.zip",
             "bin": [
                 "canvas-sync.exe"
             ],
-            "hash": "d910dee9d1a5bac8fd28c9bdf4a052073398f0015c4459eeb3825856250d2821"
+            "hash": "5d8cefd230b682245059deea3e7904fb62aded28a29d93a351672e8bc6a77c88"
         },
         "64bit": {
-            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.2/canvas-sync_Windows_x86_64.zip",
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.3/canvas-sync_Windows_x86_64.zip",
             "bin": [
                 "canvas-sync.exe"
             ],
-            "hash": "288e8a4d9403cac8451a41e83bf9a2b344b525377c79b944a6075c79360456ec"
+            "hash": "21c79c9f3f1525ef5906b4f8b3c9304a413c08e4ba9a666909d1a3d9b61b4775"
         },
         "arm64": {
-            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.2/canvas-sync_Windows_arm64.zip",
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.3/canvas-sync_Windows_arm64.zip",
             "bin": [
                 "canvas-sync.exe"
             ],
-            "hash": "4cdfa1259523da03ade9ebea9f0847148068065cd5bc68b857b71692a0bbb80d"
+            "hash": "b4060bb4e57f1469db70c875f700dfc9c5fe8ea603c197936f6fb346738f0a74"
         }
     },
     "homepage": "https://github.com/aidanaden/canvas-sync",
     "license": "MIT",
-    "description": "Canvas-sync is a  CLI to download (course files, videos, etc)\n\u0026 view (deadlines, events, announcements) from Canvas\n"
+    "description": "Canvas-sync is a  CLI to download (course files, videos, etc) \u0026 view (deadlines, events, announcements) from Canvas"
 }
