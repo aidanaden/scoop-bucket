@@ -1,0 +1,29 @@
+{
+    "version": "1.12.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.2/canvas-sync_Windows_i386.zip",
+            "bin": [
+                "canvas-sync.exe"
+            ],
+            "hash": "d910dee9d1a5bac8fd28c9bdf4a052073398f0015c4459eeb3825856250d2821"
+        },
+        "64bit": {
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.2/canvas-sync_Windows_x86_64.zip",
+            "bin": [
+                "canvas-sync.exe"
+            ],
+            "hash": "288e8a4d9403cac8451a41e83bf9a2b344b525377c79b944a6075c79360456ec"
+        },
+        "arm64": {
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.12.2/canvas-sync_Windows_arm64.zip",
+            "bin": [
+                "canvas-sync.exe"
+            ],
+            "hash": "4cdfa1259523da03ade9ebea9f0847148068065cd5bc68b857b71692a0bbb80d"
+        }
+    },
+    "homepage": "https://github.com/aidanaden/canvas-sync",
+    "license": "MIT",
+    "description": "Canvas-sync is a  CLI to download (course files, videos, etc)\n\u0026 view (deadlines, events, announcements) from Canvas\n"
+}
