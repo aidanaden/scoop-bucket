@@ -1,26 +1,26 @@
 {
-    "version": "1.26.20",
+    "version": "1.26.21",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.26.20/canvas-sync_Windows_i386.zip",
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.26.21/canvas-sync_Windows_i386.zip",
             "bin": [
                 "canvas-sync.exe"
             ],
-            "hash": "69a02dd6d8f7bb29dc59f650d21d64e2978ca1a53bc5549306acd98f54e62fb8"
+            "hash": "9ee29ebffdc373109b08fbd53e8bdf4c55ed01b45d7ff91113d9e966e28b8395"
         },
         "64bit": {
-            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.26.20/canvas-sync_Windows_x86_64.zip",
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.26.21/canvas-sync_Windows_x86_64.zip",
             "bin": [
                 "canvas-sync.exe"
             ],
-            "hash": "cc13f1a44b97a09d869a6c8b1b715c7248247e73855222c4cc6dcf3e494149d4"
+            "hash": "47973091cd7d1aa7efd444b1089b236792f5a675995ac124e30916862a6b5c6b"
         },
         "arm64": {
-            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.26.20/canvas-sync_Windows_arm64.zip",
+            "url": "https://github.com/aidanaden/canvas-sync/releases/download/v1.26.21/canvas-sync_Windows_arm64.zip",
             "bin": [
                 "canvas-sync.exe"
             ],
-            "hash": "e211d636f96d16ac834c3636ef10809afec32e5cddd83396fc63a1b516c63f70"
+            "hash": "d5b6a0e2947a6847ff4e6269eb6bd24d57615b9a593165e5846c6b49535fccf0"
         }
     },
     "homepage": "https://github.com/aidanaden/canvas-sync",
